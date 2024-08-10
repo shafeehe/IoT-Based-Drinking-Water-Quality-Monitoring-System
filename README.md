@@ -9,4 +9,4 @@ Thus we monitor the quality of the drinking water by monitering these parameters
 Contact me for more information on the project 
 `shafeehe :)
 
-Us, comprising of myself, Sarang T Mahesh, Niranjan S Prasad and Jasir Nufaiz successfully presented and demonstrated before the Project Panel of ECE Dept. Govt. Engineering College Kannur.
+Us, comprising of myself, Sarang T Mahesh, Niranjan S Prasad and Jasir Nufaiz have successfully presented and demonstrated before the Project Panel of ECE Dept. Govt. Engineering College Kannur.
